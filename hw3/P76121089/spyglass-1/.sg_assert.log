@@ -1,0 +1,1 @@
+SG_ASSERT_FATAL:src/SgMessageDB.cpp:563: void MessageDbWrapper::applyPatches(PC&, const char*) [with PC = IntPatchContainer]: Assertion 'in && "+++++! error handling"' failed.

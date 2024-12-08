@@ -1,0 +1,39 @@
+source ../script/s
+# Started at 12:38:06, Completed at 12:38:06 (Elapsed time = 00:00:00.000)
+
+source ../script/Spyglass_CDC.tcl
+# Started at 12:38:22, Completed at 12:38:22 (Elapsed time = 00:00:00.009)
+
+source ./script/Spyglass_CDC.tcl
+# Started at 12:38:58, Completed at 12:39:00 (Elapsed time = 00:00:01.540)
+
+source ../script/Spyglass_CDC.tcl
+# Started at 12:39:15, Completed at 12:39:15 (Elapsed time = 00:00:00.009)
+
+cd ..
+# Started at 12:39:19, Completed at 12:39:19 (Elapsed time = 00:00:00.000)
+
+cd src
+# Started at 12:39:26, Completed at 12:39:26 (Elapsed time = 00:00:00.000)
+
+pwd
+# Started at 12:39:33, Completed at 12:39:33 (Elapsed time = 00:00:00.009)
+
+cd ../N2611XXXX/
+# Started at 12:40:14, Completed at 12:40:14 (Elapsed time = 00:00:00.000)
+
+cd ./N2611XXXX/
+# Started at 12:40:21, Completed at 12:40:21 (Elapsed time = 00:00:00.009)
+
+source ../script/Spyglass_CDC.tcl
+# Started at 12:40:27, Completed at 12:40:27 (Elapsed time = 00:00:00.009)
+
+source ./script/Spyglass_CDC.tcl
+# Started at 12:40:38, Completed at 12:40:38 (Elapsed time = 00:00:00.000)
+
+cd build
+# Started at 12:40:53, Completed at 12:40:53 (Elapsed time = 00:00:00.009)
+
+source ./script/Spyglass_CDC.tcl
+# Started at 12:40:58, Completed at 12:40:58 (Elapsed time = 00:00:00.000)
+

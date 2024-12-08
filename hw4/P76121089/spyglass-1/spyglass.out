@@ -1,0 +1,13 @@
+read_file: info: using default project `spyglass-1.prj'
+src/top.svscript/Spyglass.sgdcremove_option: info: option `stop' is not set
+top SRAM data_array tag_arrayremove_option: info: option `incdir' is not set
+set_option: warning: Option `+incdir': Directory specification '../include' does not exist. Reason:No such file or directory
+set_option: warning: Option `+incdir': Directory specification '../src' does not exist. Reason:No such file or directory
+../include ../src../include ../srcset_option: warning: Option `+incdir': Directory specification '../include' does not exist. Reason:No such file or directory
+set_option: warning: Option `+incdir': Directory specification '../src' does not exist. Reason:No such file or directory
+set_option: warning: Option `+incdir': Directory specification '../src/AXI' does not exist. Reason:No such file or directory
+set_option: warning: Option `+incdir': Directory specification '../sim/data_array' does not exist. Reason:No such file or directory
+set_option: warning: Option `+incdir': Directory specification '../sim/tag_array' does not exist. Reason:No such file or directory
+set_option: warning: Option `+incdir': Directory specification '../sim/SRAM' does not exist. Reason:No such file or directory
+../include ../src ../src/AXI ../sim/data_array ../sim/tag_array ../sim/SRAMcurrent_goal: info: loading goal `Design_Read' (in progress)
+current_goal: info: finished loading goal `Design_Read' (ok)

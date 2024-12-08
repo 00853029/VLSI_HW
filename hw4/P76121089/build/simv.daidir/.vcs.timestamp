@@ -1,0 +1,347 @@
+157      
+0 monitor.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/monitor.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/monitor.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/monitor.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./include/monitor.sv
+0 CYCLE_MAX.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/CYCLE_MAX.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/CYCLE_MAX.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/CYCLE_MAX.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./include/CYCLE_MAX.sv
+0 top.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/top.sv
+0 CPU_wrapper.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/CPU_wrapper.sv
+0 CPU.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/CPU.sv
+0 IF.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/IF.sv
+0 Program_Counter.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/Program_Counter.sv
+0 IF_ID_reg.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/IF_ID_reg.sv
+0 ID.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/ID.sv
+0 Register_File.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/Register_File.sv
+0 Control_Unit.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/Control_Unit.sv
+0 Immediate_Generator.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/Immediate_Generator.sv
+0 ID_EXE_reg.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/ID_EXE_reg.sv
+0 EXE.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/EXE.sv
+0 ALU_Ctrl.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/ALU_Ctrl.sv
+0 ALU.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/ALU.sv
+0 CSR.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/CSR.sv
+0 EXE_MEM_reg.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/EXE_MEM_reg.sv
+0 MEM.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/MEM.sv
+0 def.svh
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/def.svh
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/def.svh
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/def.svh
+0 WB.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/WB.sv
+0 Forwarding_Unit.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/Forwarding_Unit.sv
+0 Branch_Ctrl.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/Branch_Ctrl.sv
+0 Hazard_Ctrl.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/Hazard_Ctrl.sv
+0 Master.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/Master.sv
+0 AXI_define.svh
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/AXI_define.svh
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI_define.svh
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/AXI_define.svh
+0 L1C_data.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/L1C_data.sv
+0 L1C_inst.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/L1C_inst.sv
+0 data_array_wrapper.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/data_array_wrapper.sv
+0 tag_array_wrapper.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/tag_array_wrapper.sv
+0 AXI/AXI.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/AXI/AXI.sv
+0 RA.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/RA.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/RA.sv
+0 RD.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/RD.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/RD.sv
+0 WA.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/WA.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/WA.sv
+0 WD.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/WD.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/WD.sv
+0 WR.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/WR.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/WR.sv
+0 DefaultSlave.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/DefaultSlave.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/DefaultSlave.sv
+0 sram_wrapper_pkg.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/sram_wrapper_pkg.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/sram_wrapper_pkg.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/sram_wrapper_pkg.sv
+0 Arbiter.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/Arbiter.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/Arbiter.sv
+0 Decoder.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/Decoder.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/Decoder.sv
+0 ../../include/AXI_define.svh
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/../../include/AXI_define.svh
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/../../include/AXI_define.svh
+0 AXI_interface_slave.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/AXI_interface_slave.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI_interface_slave.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/AXI_interface_slave.sv
+0 AXI_interface_master.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/AXI_interface_master.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI_interface_master.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/AXI_interface_master.sv
+0 async_fifo_core.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/async_fifo_core.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/async_fifo_core.sv
+0 SRAM_wrapper.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/SRAM_wrapper.sv
+0 Dram_wrapper.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/Dram_wrapper.sv
+0 Rom_wrapper.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/Rom_wrapper.sv
+0 WDT_wrapper.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/WDT_wrapper.sv
+0 WDT.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/WDT.sv
+0 SCTRL_wrapper.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/SCTRL_wrapper.sv
+0 sensor_ctrl.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/sensor_ctrl.sv
+0 sensor_wrapper_pkg.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/sensor_wrapper_pkg.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/sensor_wrapper_pkg.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/sensor_wrapper_pkg.sv
+0 SRAM/SRAM_rtl.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/SRAM/SRAM_rtl.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/SRAM/SRAM_rtl.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/SRAM/SRAM_rtl.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./include/SRAM/SRAM_rtl.sv
+0 data_array/data_array_rtl.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/data_array/data_array_rtl.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/data_array/data_array_rtl.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/data_array/data_array_rtl.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./include/data_array/data_array_rtl.sv
+0 tag_array/tag_array_rtl.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/tag_array/tag_array_rtl.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/tag_array/tag_array_rtl.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/tag_array/tag_array_rtl.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./include/tag_array/tag_array_rtl.sv
+0 ROM/ROM.v
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/ROM/ROM.v
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/ROM/ROM.v
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/ROM/ROM.v
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./include/ROM/ROM.v
+0 DRAM/DRAM.sv
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/DRAM/DRAM.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/DRAM/DRAM.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/DRAM/DRAM.sv
+0 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./include/DRAM/DRAM.sv
+35
++define+prog0+FSDB_ALL
++incdir+/home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src+/home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI+/home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./include+/home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./sim
++itf+/usr/cad/synopsys/vcs/cur/linux64/lib/vcsdp_lite.tab
++prog_path=/home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./sim/prog0
++rdcycle=1
++vcsd1
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/usr/cad/synopsys/vcs/cur/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /usr/cad/synopsys/vcs/cur/linux64/lib/libvirsim.so /usr/cad/synopsys/vcs/cur/linux64/lib/liberrorinf.so /usr/cad/synopsys/vcs/cur/linux64/lib/libsnpsmalloc.so /usr/cad/synopsys/vcs/cur/linux64/lib/libvfs.so
+-Mout=simv
+-Msaverestoreobj=/usr/cad/synopsys/vcs/cur/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=/usr/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/pli.a -ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/usr/cad/synopsys/vcs/cur/include
+-Mxllcflags=
+-P
+-Xvcs_run_simv=1
+-debug_access+all
+-fsdb
+-full64
+-gen_obj
+-picarchive
+-sverilog
+/usr/cad/synopsys/vcs/cur/linux64/bin/vcs1
+/usr/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/verdi.tab
+/home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./sim/top_tb.sv
+81
+vip_dir=/home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/vip
+mraarch=linux_64
+maxpend=0
+installdir=/usr/cad/synopsys/hspice/cur/hspice
+XLOCALEDIR=/usr/cad/synopsys/icc2/2022.12-sp6//etc/locale
+XDG_SESSION_ID=16510
+XDG_RUNTIME_DIR=/run/user/2125
+VMR_MODE_FLAG=64
+VERIFIC_LICENSE_FILE=/usr/cad/HOY/BRAINS/cur/../../CIC/Verific.dat
+VERDI_HOME=/usr/cad/synopsys/verdi/cur
+VENDOR=unknown
+VC_STATIC_HOME=/usr/cad/synopsys/vc_formal/cur/
+VCS_PATHMAP_PRELOAD_DONE=1
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_HOME=/usr/cad/synopsys/vcs/cur
+VCS_EXEC_DONE=1
+VCS_DEPTH=0
+VCS_CC=gcc
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux64
+UNAME=/bin/uname
+TOOL_HOME=/usr/cad/synopsys/vcs/cur/linux64
+TMIARCH=RH_64
+SYN_MAN_DIR=/usr/cad/synopsys/synthesis/cur/doc/syn/man
+SYNTHESIS=/usr/cad/synopsys/synthesis/cur
+SYNOPSYS_TMAX=/usr/cad/synopsys/tmax/cur
+SYNOPSYS_SYSTYPE=LINUX64_L31el
+SYNOPSYS_LC_ROOT=/usr/cad/synopsys/lc/cur
+SYNOPSYS=/usr/cad/synopsys/synthesis/cur/
+SSH_TTY=/dev/pts/3
+SSH_CONNECTION=140.116.49.120 50158 192.168.100.6 22
+SSH_CLIENT=140.116.49.120 50158 22
+SOFT_MAN_DIR=/usr/cad/synopsys/coreconsultant/cur/doc/dware/man
+SNPS_VCS_PYTHON3=/usr/cad/synopsys/vcs/cur/linux64/bin/Python-3.6.1/bin/python3
+SNPS_VCS_CLANG_PATH=/usr/cad/synopsys/vcs/cur/linux64/clang
+SNPS_PLATFORM=linux64
+SNPS_INTERNAL_VCS_LINUX_OS=linux
+SNPS_64=1
+SHLIB_PATH=/usr/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/:
+SELINUX_USE_CURRENT_RANGE=
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+REMOTEHOST=140.116.49.120
+PRIMETIME=/usr/cad/synopsys/primetime/cur
+PRIMERAIL=/usr/cad/synopsys/primerail/cur
+PRIMEPOWER=/usr/cad/synopsys/primepower/cur
+POWREP_HOME=/usr/cad/synopsys/power_replay/cur
+OVA_UUM=0
+OSTYPE=linux
+MGC_TMPDIR=/tmp
+MGC_LOCATION_MAP=NO_MAP
+MGC_HOME=/usr/cad/mentor/calibre/cur
+MFLAGS=
+MAKEOVERRIDES=${-*-command-variables-*-}
+MAKELEVEL=1
+MAKEFLAGS=FSDB=2
+Laker_TCL_ToolBox=1
+Laker_TCL_L3=1
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_ALL=C
+ICV_HOME_DIR=/usr/cad/synopsys/icvalidator/2020.09-sp3-3/
+HSP_HOME=/usr/cad/synopsys/hspice/cur/hspice
+HSP_GCC_VERSION=5.2.0
+HSP_GCC=/usr/cad/synopsys/hspice/cur/hspice/GNU/linux64/gcc/bin/gcc -m64 
+HOY_LIC_FILE=4141@lshc
+HOSTTYPE=x86_64-linux
+GROUP=lphp
+FTCLMD_LICENSE_FILE=99993@lshc
+FTC=/usr/cad/CBDK/CBDK018_UMC_Faraday_v1.0/CIC/Memory/ftclib_200901.2.1
+FSDB=2
+EUCLIDE_HOME=/usr/cad/synopsys/euclide/2023.03-sp2/
+ENCOUNTER=/usr/cad/cadence/EDI/cur/tools/fe
+DESIGNWARE_HOME=/usr/cad/synopsys/dw_home/cur
+CMIARCH=RH_64
+CDS_Netlisting_Mode=Analog
+CDS_LOAD_ENV=CSF
+CDS_AUTO_64BIT=ALL
+CDSHOME=/usr/cad/cadence/IC/IC_06.18.210/
+0
+0
+61
+1702994469 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./sim/DRAM/DRAM.sv
+1700485096 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./sim/ROM/ROM.v
+1700485094 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./sim/tag_array/tag_array_rtl.sv
+1700485096 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./sim/data_array/data_array_rtl.sv
+1700485096 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./sim/SRAM/SRAM_rtl.sv
+1702728204 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./include/sensor_wrapper_pkg.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/sensor_ctrl.sv
+1702767088 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/SCTRL_wrapper.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/WDT.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/WDT_wrapper.sv
+1702734108 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/Rom_wrapper.sv
+1702994478 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/Dram_wrapper.sv
+1702825532 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/SRAM_wrapper.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/async_fifo_core.sv
+1702728204 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./include/AXI_interface_master.sv
+1702732472 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./include/AXI_interface_slave.sv
+1702728204 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/../../include/AXI_define.svh
+1703022476 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/Decoder.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/Arbiter.sv
+1702728204 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./include/sram_wrapper_pkg.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/DefaultSlave.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/WR.sv
+1703018456 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/WD.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/WA.sv
+1703025696 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/RD.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/RA.sv
+1703019634 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI/AXI.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/tag_array_wrapper.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/data_array_wrapper.sv
+1702821070 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/L1C_inst.sv
+1702728204 ../include/def.svh
+1702941388 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/L1C_data.sv
+1702728204 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./include/AXI_define.svh
+1702995204 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/Master.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/Hazard_Ctrl.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/Branch_Ctrl.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/Forwarding_Unit.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/WB.sv
+1702728204 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./include/def.svh
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/MEM.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/EXE_MEM_reg.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/CSR.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/ALU.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/ALU_Ctrl.sv
+1702988756 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/EXE.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/ID_EXE_reg.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/Immediate_Generator.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/Control_Unit.sv
+1702732382 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/Register_File.sv
+1702989802 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/ID.sv
+1702990318 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/IF_ID_reg.sv
+1703020664 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/Program_Counter.sv
+1703020722 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/IF.sv
+1702990344 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/CPU.sv
+1702762194 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/CPU_wrapper.sv
+1702906284 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/top.sv
+1703020396 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./sim/CYCLE_MAX.sv
+1700485534 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./sim/monitor.sv
+1702390586 /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./sim/top_tb.sv
+1693225683 /usr/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/verdi.tab
+1693040877 /usr/cad/synopsys/vcs/cur/linux64/lib/vcsdp_lite.tab
+4
+1693043931 /usr/cad/synopsys/vcs/cur/linux64/lib/libvirsim.so
+1693042805 /usr/cad/synopsys/vcs/cur/linux64/lib/liberrorinf.so
+1693042720 /usr/cad/synopsys/vcs/cur/linux64/lib/libsnpsmalloc.so
+1693042802 /usr/cad/synopsys/vcs/cur/linux64/lib/libvfs.so
+1703040276 simv.daidir
+-1 partitionlib

@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1703040883.035169661, "rt":24.00, "ut":2.95, "st":0.25}}
+{"vcselab":{"timestamp_begin":1703040907.113031833, "rt":21.36, "ut":0.65, "st":0.14}}
+{"link":{"timestamp_begin":1703040928.532948524, "rt":0.41, "ut":0.21, "st":0.09}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1703040882.450327837}
+{"VCS_COMP_START_TIME": 1703040882.450327837}
+{"VCS_COMP_END_TIME": 1703040968.122775288}
+{"VCS_USER_OPTIONS": "-R -sverilog /home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./sim/top_tb.sv -debug_access+all -full64 +incdir+/home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src+/home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./src/AXI+/home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./include+/home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./sim +define+prog0+FSDB_ALL +prog_path=/home/user2/vsd23/vsd2323/Desktop/2023_VSD_HW4_v1.4_new/./sim/prog0 +rdcycle=1"}
+{"vcs1": {"peak_mem": 348008}}
+{"vcselab": {"peak_mem": 231820}}
